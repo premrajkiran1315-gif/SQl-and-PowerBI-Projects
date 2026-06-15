@@ -63,3 +63,32 @@ Analyzed 48,000+ pizza sales records using SQL and Power BI to uncover business 
 - Improved my SQL aggregation and filtering skills.
 - Learned to create KPI cards and interactive filters in Power BI.
 - Practiced turning raw sales data into business insights.
+
+## Challenges Faced
+
+- Accidentally closed MySQL Workbench without saving queries 
+  and had to rewrite them from scratch — learned to always 
+  save SQL scripts immediately after writing
+
+- Struggled to decide which chart type best represents 
+  the data — took multiple attempts before settling on 
+  donut charts for category breakdown and line charts 
+  for trends
+
+- Connecting SQL query results to Power BI and ensuring 
+  the data was accurately reflected in the dashboard
+
+- Deciding correct aggregation (SUM vs COUNT vs AVG) 
+  for different business questions — learned that "most 
+  popular" and "highest revenue" need completely 
+  different approaches
+
+- Designing a clean 2-page dashboard that tells a clear 
+  business story without overcrowding visuals
+
+- Figuring out peak hours required extracting HOUR() 
+  from order_time — took time to understand time-based 
+  functions in SQL
+
+- White space issues inside KPI cards in Power BI 
+  took time to fix using padding settings
