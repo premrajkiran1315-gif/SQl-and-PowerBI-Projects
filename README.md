@@ -1,22 +1,5 @@
 # Pizza Sales Analysis | SQL + Power BI
 
-## Dashboard Preview
-
-**Page 1 — Main Dashboard:**
-
-- KPI Cards (Revenue, Orders, Pizzas Sold, Avg Order Value)
-- Daily and Monthly Trend Charts
-- Sales % by Category and Size
-
-<img width="609" height="345" alt="Main Dashboard" src="https://github.com/user-attachments/assets/058040aa-dc01-4852-93c2-b8040c9e77e3" />
-
-**Page 2 — Best and Worst Sellers:**
-
-- Top 5 Pizzas by Revenue, Quantity, Total Orders
-- Bottom 5 Pizzas by Revenue, Quantity, Total Orders
-
-<img width="623" height="341" alt="image" src="https://github.com/user-attachments/assets/08f3099b-9e76-4767-949b-c98ef840b20a" />
-
 ##  Project Overview
 
 Analyzed 48,000+ pizza sales records using SQL and Power BI to uncover business insights including revenue trends, peak hours, and best/worst performing pizzas.
@@ -46,6 +29,23 @@ Analyzed 48,000+ pizza sales records using SQL and Power BI to uncover business 
 - **Most Popular Size:** Large (45.89%)
 - **Peak Days:** Weekends and Fridays
 - **Peak Months:** January and July
+
+## Dashboard Preview
+
+**Page 1 — Main Dashboard:**
+
+- KPI Cards (Revenue, Orders, Pizzas Sold, Avg Order Value)
+- Daily and Monthly Trend Charts
+- Sales % by Category and Size
+
+<img width="609" height="345" alt="Main Dashboard" src="https://github.com/user-attachments/assets/058040aa-dc01-4852-93c2-b8040c9e77e3" />
+
+**Page 2 — Best and Worst Sellers:**
+
+- Top 5 Pizzas by Revenue, Quantity, Total Orders
+- Bottom 5 Pizzas by Revenue, Quantity, Total Orders
+
+<img width="623" height="341" alt="image" src="https://github.com/user-attachments/assets/08f3099b-9e76-4767-949b-c98ef840b20a" />
 
 ##  SQL Queries Used
 
